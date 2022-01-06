@@ -1,7 +1,8 @@
 ### Olà! EU sou MilesGameDev(Alisson)
--👨‍💻 Trabalhando com Free Lancer
--📚Estudando C# e .NET
 
+- 👨‍💻 Trabalhando com Free Lancer
+- 📚Estudando C# e .NET
+- 🎮 GameDev Unity e GameMaker 2
 <div align="center">
   <a href="https://github.com/MilesGamedev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MilesGamedev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
