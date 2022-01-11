@@ -1,4 +1,4 @@
-### Olà! EU sou MilesGameDev(Alisson)
+### Olà! Eu sou MilesGameDev(Alisson)
 
 - 👨‍💻 Trabalhando com Free Lancer
 - 📚Estudando C# e .NET
