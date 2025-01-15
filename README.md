@@ -1,6 +1,6 @@
 ### Olà! Eu sou Alisson Marques
 
-- 📚Estudando C# e .NET
+- 🖥Desenvolvedor C# e .NET
 - Framework Angular
 - <div align="center">
   <a href="https://github.com/AlissonMSilva">
