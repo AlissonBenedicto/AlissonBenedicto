@@ -1,13 +1,13 @@
 ### Seja bem-vindo! Me chamo Alisson Marques, sou 🖥Desenvolvedor atuando em varias areas Web, Desktop e Robotica.
-Principais linguagens e frameworks:
-<div style="display: inline_block"><br>
+### Principais linguagens e frameworks:
+<div style="display: inline_block">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg">
   <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
 </div>
 <br>
-<div align="center">
+<div align="left">
   <a href="https://github.com/AlissonMSilva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlissonBenedicto&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
