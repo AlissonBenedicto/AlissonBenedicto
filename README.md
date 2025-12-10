@@ -8,7 +8,7 @@
 </div>
 <br>
 <div align="left">
-  <a href="https://github.com/AlissonMSilva">
+  <a href="https://github.com/AlissonBenedicto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlissonBenedicto&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   <a href = "mailto:alissonmb1445@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
